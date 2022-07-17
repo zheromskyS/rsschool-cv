@@ -147,3 +147,5 @@ int main() {
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * General secondary education in Gymnasium (in progress)
 
+### English
+* A2 *level*
