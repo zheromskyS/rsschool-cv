@@ -136,3 +136,14 @@ int main() {
     </div>
 </header>
 ```
+
+### Experience
+* Project *'Html and css tutorial for high school'* (HTML, CSS)
+
+### Education
+* HTML and CSS Tutorials on the Code-basic (completed)
+* HTML and CSS Tutorials on the HTML Academy (completed)
+* HTML and CSS Tutorials on the w3schools (completed)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* General secondary education in Gymnasium (in progress)
+
