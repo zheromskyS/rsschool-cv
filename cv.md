@@ -153,7 +153,6 @@ There is a code-example оf a horizontal site menu (HTML):
 - RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
 - General secondary education in Gymnasium (in progress)
 - Version Control with Git on learn.epam (completed)
--
 
 ### English
 
