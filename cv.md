@@ -142,3 +142,20 @@ There is a code-example оf a horizontal site menu (HTML):
 </header>
 ```
 
+### Experience
+
+- Project 'Html and css tutorial for high school' _(HTML, CSS)_
+
+### Education
+
+- HTML and CSS Tutorials on the Code-basic (completed)
+- HTML and CSS Tutorials on the HTML Academy (completed)
+- RS Schools Course «JavaScript/Front-end. Stage 0» (completed)
+- General secondary education in Gymnasium (in progress)
+- Version Control with Git on learn.epam (completed)
+-
+
+### English
+
+- A2 _level_
+
