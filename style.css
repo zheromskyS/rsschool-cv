@@ -1,0 +1,144 @@
+html,
+body {
+  margin: 2% 0 2% 0;
+  padding: 0;
+  background: #000;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main {
+  nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      display: grid;
+      grid-template-areas:
+        "A A B"
+        "C D E";
+      gap: 30px;
+
+      :first-child {
+        grid-area: A;
+      }
+
+      :nth-child(2) {
+        grid-area: B;
+      }
+
+      :nth-child(3) {
+        grid-area: C;
+      }
+
+      :nth-child(4) {
+        grid-area: D;
+      }
+
+      :nth-child(5) {
+        grid-area: E;
+      }
+
+      li {
+        margin: 0;
+        padding: 10px;
+        border: 2px solid black;
+        border-radius: 5px;
+        font-size: 1.2rem;
+
+        ul {
+          display: inline;
+
+          li {
+            margin: 10px 0 0 0;
+            padding: 0;
+            border: 1px black;
+            font-weight: 400;
+            line-height: 1.5;
+            font-size: 1rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 30px 0 0 0;
+
+  a,
+  span {
+    font-size: 1.2rem;
+    font-weight: 200;
+    font-family: "Rubik", sans-serif;
+    text-decoration: none;
+    color: black;
+  }
+
+  a:hover {
+    color: blue;
+  }
+
+  img {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 20rem;
+  font-family: "Rubik", sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 2.5rem;
+  font-family: "Rubik", sans-serif;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+ul {
+  list-style: none;
+  margin: 20px 0 30px 0;
+  padding: 0;
+
+  li {
+    padding: 5px 0;
+    font-family: "Rubik", sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+
+    a {
+      text-decoration: none;
+      color: black;
+      font-weight: 350;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.wrapper {
+  margin: auto;
+  padding: 30px;
+  width: 70%;
+  background: white;
+  border-radius: 10px;
+}
